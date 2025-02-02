@@ -309,7 +309,7 @@ body{
 }
 
 .form__label-box{
-
+    display: flex;
 }
 
 .form__input-radio{
@@ -321,5 +321,20 @@ body{
 }
 
 .form__radio-style{
-    
+    border-radius: 30px;
+    width: 80px;
+    height: 12px;
+}
+
+.form__radio-style--grey{
+    background: #6F6F6F;
+}
+
+.form__radio-style--white{
+    background: #fff;
+    border: 1px solid #6F6F6F;
+}
+
+.form__radio-style--red{
+    background: #FF4040;
 }
