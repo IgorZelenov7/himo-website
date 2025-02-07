@@ -27,14 +27,17 @@
 Если вы хотите запустить проект локально, выполните следующие шаги:
 
 1. Клонируйте репозиторий:
-````bash
+```bash
   git clone https://github.com/IgorZelenov7/himo-website.git
-   
+```
+
 2. Перейдите в папку проекта:
-````bash
+```bash
   cd himo-website
+```
 
 3. Откройте файл index.html в браузере:
-````bash
+```bash
   start index.html  # Для Windows
   open index.html   # Для macOS
+```
