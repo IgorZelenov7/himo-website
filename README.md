@@ -35,6 +35,6 @@
   cd himo-website
 
 3. Откройте файл index.html в браузере:
-
+````bash
   start index.html  # Для Windows
   open index.html   # Для macOS
